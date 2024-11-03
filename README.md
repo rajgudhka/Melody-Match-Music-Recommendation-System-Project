@@ -5,7 +5,8 @@
 
 **Description**: Melody Match is a content-based music recommendation system built using Python, Streamlit, and NLP techniques. The project utilizes a Kaggle dataset refined for optimal performance, combined with Spotify API integration to deliver song recommendations with album visuals, enhancing the user experience.
 
-![image](https://github.com/user-attachments/assets/861e540f-05aa-4b9c-b49d-3c88064e56e6)
+![image](https://github.com/user-attachments/assets/33a19f09-b801-4318-824f-ea0292f51774)
+
 
 ## Key Features
 - **Content-Based Recommendations**: Developed a system that leverages lyrical analysis to recommend songs based on user input.
