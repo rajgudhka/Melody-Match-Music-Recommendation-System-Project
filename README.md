@@ -3,6 +3,9 @@
 ## Project Overview
 **Domain**: Recommendation Systems
 
+## Dataset
+- [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 **Description**: Melody Match is a content-based music recommendation system built using Python, Streamlit, and NLP techniques. The project utilizes a Kaggle dataset refined for optimal performance, combined with Spotify API integration to deliver song recommendations with album visuals, enhancing the user experience.
 
 ![image](https://github.com/user-attachments/assets/33a19f09-b801-4318-824f-ea0292f51774)
@@ -24,8 +27,7 @@
 - **scikit-learn**: For feature extraction using TF-IDF Vectorizer and similarity computation.
 - **spotipy**: For accessing the Spotify API and fetching album cover images.
 
-## Dataset
-- [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 
 
 
